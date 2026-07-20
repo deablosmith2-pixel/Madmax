@@ -5,7 +5,7 @@ public class PlayerController : MonoBehaviour
 {
     public float forwardSpeed = 10f;
         public float laneDistance = 3f;
-            public float jumpForce = 7f;
+            public float doublejump Force = 7f;
                 public float laneChangeSpeed = 10f;
 
                     private CharacterController controller;
